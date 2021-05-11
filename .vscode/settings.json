@@ -11,4 +11,5 @@
     "**/dist": true,
     "**/docs": true
   }
+  "emmet.triggerExpansionOnTab": true
 }
