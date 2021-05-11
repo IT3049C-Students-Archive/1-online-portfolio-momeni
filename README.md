@@ -1,6 +1,6 @@
 Portfolio Assignment
 ==========================================
-![Assignment Checks](https://it3049c-students.github.io/1-online-portfolio-momeni/)
+![Assignment Checks](https://github.com/IT3049C-Students/1-online-portfolio-momeni/blob/master/resources/images/test.PNG)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
